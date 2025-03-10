@@ -1,0 +1,281 @@
+{
+  "title": "Test de orientare pentru facultățile de informatică din România",
+  "description": "Acest test te va ajuta să descoperi care dintre domeniile Informatică, Informatică Economică sau Automatică și Calculatoare ți se potrivește mai bine, în funcție de preferințele tale.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Ce tip de probleme preferi să rezolvi?",
+      "type": "single",
+      "category": "problem_solving",
+      "options": [
+        {"id": "theoretical", "text": "Probleme teoretice și algoritmi complecși"},
+        {"id": "business", "text": "Probleme legate de afaceri și management"},
+        {"id": "hardware", "text": "Probleme tehnice și de inginerie fizică"}
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Care aspect al informaticii te pasionează cel mai mult?",
+      "type": "single",
+      "category": "passion",
+      "options": [
+        {"id": "software", "text": "Algoritmi și dezvoltare software"},
+        {"id": "business", "text": "Aplicarea tehnologiei în domeniul economic"},
+        {"id": "systems", "text": "Sistemele hardware și automatizări"}
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Ce tip de proiecte ai vrea să realizezi în facultate?",
+      "type": "single",
+      "category": "projects",
+      "options": [
+        {"id": "research", "text": "Proiecte de cercetare și dezvoltare de algoritmi"},
+        {"id": "business", "text": "Aplicații de business și analiză de date economice"},
+        {"id": "engineering", "text": "Sisteme embedded și soluții hardware"}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Ce materie din liceu ți-a plăcut cel mai mult?",
+      "type": "single",
+      "category": "favorite_subject",
+      "options": [
+        {"id": "math", "text": "Matematica (analiză, algebră avansată)"},
+        {"id": "economics", "text": "Economia"},
+        {"id": "physics", "text": "Fizica"}
+      ]
+    },
+    {
+      "id": 5,
+      "question": "În ce tip de companie ai prefera să lucrezi după absolvire?",
+      "type": "single",
+      "category": "company_preference",
+      "options": [
+        {"id": "tech", "text": "Companie de tehnologie (Google, Microsoft)"},
+        {"id": "financial", "text": "Companie financiară sau consultanță (KPMG, EY)"},
+        {"id": "industrial", "text": "Companie industrială sau de automatizări (Bosch, Continental)"}
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Ce preferi să faci în timpul liber?",
+      "type": "single",
+      "category": "hobby",
+      "options": [
+        {"id": "code", "text": "Să scriu cod și să rezolv probleme de programare"},
+        {"id": "business", "text": "Să urmăresc știri despre afaceri și tendințe economice"},
+        {"id": "hardware", "text": "Să lucrez la proiecte hardware sau robotică"}
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Ce tip de curs te-ar interesa cel mai mult?",
+      "type": "single",
+      "category": "course_preference",
+      "options": [
+        {"id": "algorithms", "text": "Algoritmi avansați și structuri de date"},
+        {"id": "erp", "text": "Sisteme ERP și baze de date pentru afaceri"},
+        {"id": "embedded", "text": "Sisteme embedded și microprocesoare"}
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Care aspect al programării te interesează mai mult?",
+      "type": "single",
+      "category": "programming_focus",
+      "options": [
+        {"id": "theory", "text": "Aspectele teoretice și formale ale limbajelor de programare"},
+        {"id": "applications", "text": "Dezvoltarea de aplicații pentru mediul de afaceri"},
+        {"id": "low_level", "text": "Programarea la nivel jos, aproape de hardware"}
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Ce tip de mediu de învățare preferi?",
+      "type": "single",
+      "category": "learning_environment",
+      "options": [
+        {"id": "academic", "text": "Academic și orientat spre cercetare"},
+        {"id": "business", "text": "Practic și orientat spre aplicații de business"},
+        {"id": "technical", "text": "Tehnic, cu multe laboratoare și aplicații hardware"}
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Ce rol ți-ar plăcea într-un proiect de grup?",
+      "type": "single",
+      "category": "team_role",
+      "options": [
+        {"id": "architect", "text": "Arhitect de soluție sau designer de algoritmi"},
+        {"id": "manager", "text": "Manager de proiect sau analist de business"},
+        {"id": "implementer", "text": "Implementator tehnic sau inginer hardware"}
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Ce tip de probleme matematice preferi?",
+      "type": "single",
+      "category": "math_preference",
+      "options": [
+        {"id": "abstract", "text": "Probleme abstracte și demonstrații teoretice"},
+        {"id": "applied", "text": "Probleme de matematică aplicată în economie"},
+        {"id": "engineering", "text": "Probleme de matematică aplicată în inginerie"}
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Care dintre următoarele discipline conexe te interesează mai mult?",
+      "type": "single",
+      "category": "related_discipline",
+      "options": [
+        {"id": "ai", "text": "Inteligență artificială și machine learning"},
+        {"id": "finance", "text": "Finanțe și analiza datelor economice"},
+        {"id": "robotics", "text": "Robotică și sisteme de control"}
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Ce tip de internship ai prefera?",
+      "type": "single",
+      "category": "internship",
+      "options": [
+        {"id": "research", "text": "Internship de cercetare într-un laborator"},
+        {"id": "business", "text": "Internship într-o companie de consultanță"},
+        {"id": "engineering", "text": "Internship într-o companie de inginerie/producție"}
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Ce tip de proiect personal ai vrea să dezvolți?",
+      "type": "single",
+      "category": "personal_project",
+      "options": [
+        {"id": "app", "text": "O aplicație software complexă sau un algoritm inovativ"},
+        {"id": "business_analytics", "text": "O aplicație de analiză de business sau financiară"},
+        {"id": "iot", "text": "Un dispozitiv IoT sau un sistem automatizat"}
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Ce aspect te entuziasmează cel mai mult în tehnologie?",
+      "type": "single",
+      "category": "tech_enthusiasm",
+      "options": [
+        {"id": "innovation", "text": "Inovațiile în domeniul algoritmilor și software"},
+        {"id": "digital_economy", "text": "Transformarea digitală a economiei și afacerilor"},
+        {"id": "automation", "text": "Automatizarea și sisteme fizice inteligente"}
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Ce abilități vrei să-ți dezvolți în facultate?",
+      "type": "single",
+      "category": "skill_development",
+      "options": [
+        {"id": "deep_cs", "text": "Cunoștințe profunde în știința calculatoarelor"},
+        {"id": "business_tech", "text": "Abilități de aplicare a tehnologiei în business"},
+        {"id": "engineering", "text": "Abilități de inginerie și proiectare hardware"}
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Care domeniu crezi că va avea cel mai mare impact în viitor?",
+      "type": "single",
+      "category": "future_impact",
+      "options": [
+        {"id": "algorithms", "text": "Algoritmi avansați și inteligență artificială"},
+        {"id": "fintech", "text": "Tehnologia financiară și transformarea economică"},
+        {"id": "robotics", "text": "Robotica și automatizările industriale"}
+      ]
+    },
+    {
+      "id": 18,
+      "question": "În ce mod preferi să înveți concepte noi?",
+      "type": "single",
+      "category": "learning_style",
+      "options": [
+        {"id": "theoretical", "text": "Prin studiu teoretic și rezolvare de probleme abstracte"},
+        {"id": "case_study", "text": "Prin studii de caz și aplicații practice în business"},
+        {"id": "hands_on", "text": "Prin experiențe practice și proiecte hands-on"}
+      ]
+    },
+    {
+      "id": 19,
+      "question": "Ce tip de provocare te motivează mai mult?",
+      "type": "single",
+      "category": "challenge_motivation",
+      "options": [
+        {"id": "intellectual", "text": "Provocări intelectuale și probleme teoretice complexe"},
+        {"id": "business", "text": "Provocări de business și optimizare economică"},
+        {"id": "technical", "text": "Provocări tehnice și soluții pentru probleme fizice reale"}
+      ]
+    },
+    {
+      "id": 20,
+      "question": "Ce platformă preferată utilizezi cel mai des?",
+      "type": "single",
+      "category": "platform_preference",
+      "options": [
+        {"id": "github", "text": "GitHub sau platforme de dezvoltare software"},
+        {"id": "analytics", "text": "Platforme de analiză de business (Tableau, Power BI)"},
+        {"id": "arduino", "text": "Arduino, Raspberry Pi sau alte platforme hardware"}
+      ]
+    },
+    {
+      "id": 21,
+      "question": "Ce limbaj de programare preferi?",
+      "type": "single",
+      "category": "programming_language",
+      "options": [
+        {"id": "theory_langs", "text": "Limbaje cu accent teoretic (Haskell, Lisp)"},
+        {"id": "business_langs", "text": "Limbaje orientate pe business (SQL, R, Python pentru analiză)"},
+        {"id": "low_level_langs", "text": "Limbaje de nivel jos (C, C++, Assembly)"}
+      ]
+    },
+    {
+      "id": 22,
+      "question": "Ce scenariu de carieră ți se potrivește cel mai bine?",
+      "type": "single",
+      "category": "career_scenario",
+      "options": [
+        {"id": "researcher", "text": "Cercetător sau developer de algoritmi în echipe de inovație"},
+        {"id": "business_analyst", "text": "Analist de business sau consultant în tehnologie"},
+        {"id": "system_engineer", "text": "Inginer de sistem sau specialist în automatizări"}
+      ]
+    },
+    {
+      "id": 23,
+      "question": "Ce tip de conferință te-ar interesa cel mai mult?",
+      "type": "single",
+      "category": "conference_interest",
+      "options": [
+        {"id": "academic", "text": "Conferință academică despre algoritmi și computație"},
+        {"id": "business_tech", "text": "Conferință de tehnologie în business și fintech"},
+        {"id": "industrial", "text": "Conferință de inginerie și automatizări industriale"}
+      ]
+    },
+    {
+      "id": 24,
+      "question": "Ce tip de aplicații preferi să dezvolți?",
+      "type": "single",
+      "category": "app_development",
+      "options": [
+        {"id": "algorithm_based", "text": "Aplicații bazate pe algoritmi complecși și optimizare"},
+        {"id": "business_apps", "text": "Aplicații pentru mediul de afaceri și analiză de date"},
+        {"id": "embedded_apps", "text": "Aplicații embedded și sisteme de control"}
+      ]
+    },
+    {
+      "id": 25,
+      "question": "Ce proiect de final de facultate ți-ar plăcea să realizezi?",
+      "type": "single",
+      "category": "final_project",
+      "options": [
+        {"id": "algorithm", "text": "Un algoritm inovativ sau o cercetare teoretică"},
+        {"id": "business_platform", "text": "O platformă de analiză de business sau economică"},
+        {"id": "hardware_solution", "text": "O soluție hardware sau un sistem automatizat"}
+      ]
+    }
+  ]
+}
