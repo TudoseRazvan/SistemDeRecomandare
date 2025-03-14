@@ -54,7 +54,7 @@ domain_profiles = {
             {
                 "name": "ASE București",
                 "faculty": "Facultatea de Cibernetică, Statistică și Informatică Economică",
-                "program": "Informatică Economică",
+                "program": "Informatică Economică / Cibernetică Economică / Statistică și previziune economică",
                 "strengths": "Combinație excelentă între pregătirea in domeniul IT și pregatirea in domeniul economic, colaborări strânse cu mediul de afaceri, oportunități de practică în companii de top"
             }
         ]
